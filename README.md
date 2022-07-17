@@ -1,16 +1,32 @@
-# scpanel_ui
+# USER INTERFACE FOR SCPANEL (NPM PACKAGE)
 
-A new Flutter project.
+![Logo](http://utils.myportfolio.club/scpanel.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## IMAGES
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![](http://utils.myportfolio.club/scpanel1.png) 
+![](http://utils.myportfolio.club/scpanel2.png)  
+![](http://utils.myportfolio.club/scpanel3.png) 
+![](http://utils.myportfolio.club/scpanel4.png) 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## SETUP IN LOCAL
+
+- Clone from github
+```bash
+    https://github.com/frenzycoders/scpanel-ui.git
+```
+
+- Navigate to scpanel-ui and run 
+
+```bash
+    cd scpanel-ui && flutter pub get
+```
+
+- Well Done, Setup is completed now run 
+
+```bash
+    flutter run -d chrome
+```
